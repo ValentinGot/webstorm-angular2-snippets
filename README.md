@@ -40,5 +40,5 @@ Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (OSX) to a
 2. Copy / Past it into your WebStorm template folder:
     * **Window**: C:/Users/USER/.WebStorm*/config/templates
     * **Unix**: ~/.WebStorm*/config/templates
-    * **MAC**: ~/Library/Preferences/WebStorm*/templates
+    * **Mac**: ~/Library/Preferences/WebStorm*/templates
 3. Restart WebStorm
