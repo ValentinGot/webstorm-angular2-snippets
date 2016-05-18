@@ -37,7 +37,7 @@ Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (OSX) to a
 ## Installation
 
 1. Download the [angular2-live-templates.xml](https://github.com/ValentinGot/webstorm-angular2-snippets/blob/master/angular2-live-templates.xml) file
-2. Copy / Past it into your WebStorm template folder:
+2. Copy / Past it into your WebStorm [templates folder](https://www.jetbrains.com/help/webstorm/2016.1/project-and-ide-settings.html?origin=old_help):
     * **Window**: C:/Users/USER/.WebStorm*/config/templates
     * **Unix**: ~/.WebStorm*/config/templates
     * **Mac**: ~/Library/Preferences/WebStorm*/templates
