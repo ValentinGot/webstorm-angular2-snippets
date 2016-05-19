@@ -42,5 +42,5 @@ Alternatively, press `Ctrl`+`Space` (Windows, Linux) or `Cmd`+`Space` (OSX) to a
 2. Copy / Past it into your WebStorm [templates folder](https://www.jetbrains.com/help/webstorm/2016.1/project-and-ide-settings.html?origin=old_help):
     * **Window**: C:/Users/USER/.WebStorm*/config/templates
     * **Unix**: ~/.WebStorm*/config/templates
-    * **Mac**: ~/Library/Preferences/WebStorm*/templates
+    * **OSX**: ~/Library/Preferences/WebStorm*/templates
 3. Restart WebStorm
