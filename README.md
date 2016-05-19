@@ -3,6 +3,8 @@
 John Papa's Angular 2 snippets for WebStorm.
 Migrated from [here](https://github.com/johnpapa/vscode-angular2-snippets).
 
+![Use Live Templates](images/ng2-component.gif)
+
 ## Usage
 
 Type part of a snippet, press `enter`, and the snippet unfolds.
